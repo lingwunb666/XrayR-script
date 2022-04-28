@@ -1,9 +1,14 @@
 # XRayR
+
+#我只是备份并将依赖等东西改到了我的仓库，我不是原作者
+
+#以下为原项目README
+
 A Xray backend framework that can easily support many panels.
 
 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
 
-Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-project/XrayR)
+Find the source code here: [lingwunb666/XrayR](https://github.com/lingwunb666/XrayR)
 
 # 详细使用教程
 
