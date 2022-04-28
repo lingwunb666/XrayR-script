@@ -1,8 +1,8 @@
 # XRayR
 
-#我只是备份并将依赖等东西改到了我的仓库，我不是原作者
+# 我只是备份并将依赖等东西改到了我的仓库，我不是原作者
 
-#以下为原项目README
+# 以下为原项目README
 
 A Xray backend framework that can easily support many panels.
 
